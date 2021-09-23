@@ -1,0 +1,33 @@
+p{
+    font-size: 20;
+    font: century;
+    color: blueviolet;
+}
+body
+{
+    background:radial-gradient(200px top, ellipse, white, #1162ac, black);;
+}
+h1
+{
+    font-size: 30px;
+    color: coral;
+    font: arial;
+}
+h3
+{
+    color:darkgoldenrod;
+    font-size: 35;
+}
+.parrafo
+{
+    color: green;
+    font-family: 'Franklin Gothic Medium';
+
+}
+footer
+{
+    color: indianred;
+    text-align: center;
+
+
+}
